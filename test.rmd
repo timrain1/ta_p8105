@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Basic plots"
 author: "Junting Ren Uni:jr3755"
 date: "September 13, 2018"
 output: html_document
